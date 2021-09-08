@@ -1,0 +1,8 @@
+class Food{
+
+constructor(foodStock){}
+
+
+
+
+}
